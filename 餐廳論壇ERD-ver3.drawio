@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T06:34:22.532Z" agent="5.0 (Windows)" etag="7bm05MmKQnwrl9efzuHR" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T06:37:42.590Z" agent="5.0 (Windows)" etag="MY2m_WRMuADKujqGpIYD" version="16.2.7" type="github">
   <diagram id="Arsce1lhnxzf3GvLfII_" name="第1頁">
     <mxGraphModel dx="1422" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -320,6 +320,18 @@
             <mxPoint x="831.0234028641275" y="-274.6130147973113" as="sourcePoint" />
             <mxPoint x="760" y="-220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DvudYyo2oTZq2HKp4l86-21" value="&lt;u&gt;id&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE598;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-390" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DvudYyo2oTZq2HKp4l86-22" value="name" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE598;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="475" y="-390" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DvudYyo2oTZq2HKp4l86-23" value="address" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE598;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="495" y="-310" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DvudYyo2oTZq2HKp4l86-24" value="rate" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE598;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="335" y="-310" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
