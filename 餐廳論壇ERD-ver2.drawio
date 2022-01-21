@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T05:49:16.917Z" agent="5.0 (Windows)" etag="zkqiqTASjIr_y63QVZy-" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T05:56:30.347Z" agent="5.0 (Windows)" etag="sMpiVKlCoGnHk4O7UW_E" version="16.2.7" type="github">
   <diagram id="Arsce1lhnxzf3GvLfII_" name="第1頁">
     <mxGraphModel dx="1422" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -147,14 +147,14 @@
             <mxPoint x="438.84995230014306" y="552.7199491201525" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sODQ3IuSzkhDvpB2BnHd-1" value="&lt;p&gt;請根據以下所給的資料，繪製出對應的「餐廳論壇」ERD，裡面會有 5 個實體：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;餐廳 Restaurant&lt;/li&gt;&lt;li&gt;餐廳分類 Category&lt;/li&gt;&lt;li&gt;使用者 User&lt;/li&gt;&lt;li&gt;留言 Comment&lt;/li&gt;&lt;li&gt;我的最愛 Favorite&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;以下是實體之間的關係：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#FF6602&quot;&gt;OK.一個分類&lt;/font&gt;會有&lt;font color=&quot;#FF6602&quot;&gt;多家餐廳&lt;/font&gt;，但&lt;font color=&quot;#FF6602&quot;&gt;一個餐廳&lt;/font&gt;只會有&lt;font color=&quot;#FF6602&quot;&gt;一個分類&lt;/font&gt; &amp;gt; 1 cate &amp;gt; M rest&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#FF6602&quot;&gt;OK.一個使用者&lt;/font&gt;可以把&lt;font color=&quot;#FF6602&quot;&gt;多家餐廳&lt;/font&gt;加入「&lt;font color=&quot;#FF6602&quot;&gt;我的最愛&lt;/font&gt;」名單 &amp;gt; M rest &amp;gt; M fav&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#FF6602&quot;&gt;OK.一家餐廳&lt;/font&gt;同時可以在&lt;font color=&quot;#FF6602&quot;&gt;多個使用者&lt;/font&gt;的「&lt;font color=&quot;#FF6602&quot;&gt;我的最愛&lt;/font&gt;」名單裡 &amp;gt; &lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#FF6602&quot;&gt;OK.一個使用者&lt;/font&gt;只有&lt;font color=&quot;#FF6602&quot;&gt;一個「我的最愛」&lt;/font&gt;名單&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#FF6602&quot;&gt;一個使用者&lt;/font&gt;可以在&lt;font color=&quot;#FF6602&quot;&gt;多家餐廳下留言&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#FF6602&quot;&gt;一個留言&lt;/font&gt;只屬於&lt;font color=&quot;#FF6602&quot;&gt;一個使用者&lt;/font&gt;，也只關於&lt;font color=&quot;#FF6602&quot;&gt;一家餐廳&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="705" y="-538" width="440" height="250" as="geometry" />
+        <mxCell id="sODQ3IuSzkhDvpB2BnHd-1" value="&lt;p&gt;請根據以下所給的資料，繪製出對應的「餐廳論壇」ERD，裡面會有 5 個實體：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;餐廳 Restaurant&lt;/li&gt;&lt;li&gt;餐廳分類 Category&lt;/li&gt;&lt;li&gt;使用者 User&lt;/li&gt;&lt;li&gt;留言 Comment&lt;/li&gt;&lt;li&gt;我的最愛 Favorite&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;以下是實體之間的關係：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#FF6602&quot;&gt;OK.一個分類&lt;/font&gt;會有&lt;font color=&quot;#FF6602&quot;&gt;多家餐廳&lt;/font&gt;，但&lt;font color=&quot;#FF6602&quot;&gt;一個餐廳&lt;/font&gt;只會有&lt;font color=&quot;#FF6602&quot;&gt;一個分類&lt;/font&gt; &amp;gt; 1 cate &amp;gt; M rest&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#FF6602&quot;&gt;OK.一個使用者&lt;/font&gt;可以把&lt;font color=&quot;#FF6602&quot;&gt;多家餐廳&lt;/font&gt;加入「&lt;font color=&quot;#FF6602&quot;&gt;我的最愛&lt;/font&gt;」名單 &amp;gt; M rest &amp;gt; M fav&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#FF6602&quot;&gt;OK.一家餐廳&lt;/font&gt;同時可以在&lt;font color=&quot;#FF6602&quot;&gt;多個使用者&lt;/font&gt;的「&lt;font color=&quot;#FF6602&quot;&gt;我的最愛&lt;/font&gt;」名單裡 &amp;gt; &lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#FF6602&quot;&gt;OK.一個使用者&lt;/font&gt;只有&lt;font color=&quot;#FF6602&quot;&gt;一個「我的最愛」&lt;/font&gt;名單&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#FF6602&quot;&gt;一個使用者&lt;/font&gt;可以在&lt;font color=&quot;#FF6602&quot;&gt;多家餐廳下留言&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#FF6602&quot;&gt;一個留言&lt;/font&gt;只屬於&lt;font color=&quot;#FF6602&quot;&gt;一個使用者&lt;/font&gt;，也只關於&lt;font color=&quot;#FF6602&quot;&gt;一家餐廳 &amp;gt; 綜合是一個留言關聯了使用者以及餐廳&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="590" y="-580" width="520" height="270" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-2" value="Category" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6602;strokeColor=#BD7000;fontColor=#FFFFFF;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="130" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-4" value="Restaurant" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6602;strokeColor=#BD7000;fontColor=#FFFFFF;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="355" y="-220" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-5" value="User" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6602;strokeColor=#BD7000;fontColor=#FFFFFF;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="700" y="-40" width="120" height="60" as="geometry" />
@@ -163,7 +163,7 @@
           <mxGeometry x="700" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-7" value="Favorite" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6602;strokeColor=#BD7000;fontColor=#FFFFFF;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="355" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;strokeColor=#FF6602;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="sODQ3IuSzkhDvpB2BnHd-2" target="sODQ3IuSzkhDvpB2BnHd-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -175,7 +175,7 @@
           <mxGeometry x="260" y="-210" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-11" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="325" y="-210" width="20" height="20" as="geometry" />
+          <mxGeometry x="370" y="-210" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;strokeColor=#FF6602;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sODQ3IuSzkhDvpB2BnHd-7" target="sODQ3IuSzkhDvpB2BnHd-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -187,19 +187,19 @@
           <mxGeometry x="680" y="-30" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-14" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="500" y="-30" width="20" height="20" as="geometry" />
+          <mxGeometry x="545" y="-30" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sODQ3IuSzkhDvpB2BnHd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;strokeColor=#FF6602;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sODQ3IuSzkhDvpB2BnHd-4" target="sODQ3IuSzkhDvpB2BnHd-7" edge="1">
+        <mxCell id="sODQ3IuSzkhDvpB2BnHd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;strokeColor=#FF6602;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dAUsXNRdZzB-UZo_wPvv-1" target="sODQ3IuSzkhDvpB2BnHd-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" as="sourcePoint" />
             <mxPoint x="715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-17" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="430" y="-150" width="20" height="20" as="geometry" />
+          <mxGeometry x="470" y="-150" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-18" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="430" y="-70" width="20" height="20" as="geometry" />
+          <mxGeometry x="200" y="-70" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;strokeColor=#FF6602;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sODQ3IuSzkhDvpB2BnHd-4" target="sODQ3IuSzkhDvpB2BnHd-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -223,31 +223,40 @@
           <mxGeometry x="670" y="-210" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-27" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="490" y="-210" width="20" height="20" as="geometry" />
+          <mxGeometry x="535" y="-210" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-28" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="490" y="-180" width="20" height="20" as="geometry" />
+          <mxGeometry x="535" y="-180" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-29" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="670" y="-180" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-30" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="325" y="-180" width="20" height="20" as="geometry" />
+          <mxGeometry x="370" y="-180" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-31" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="-180" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-32" value="&lt;div&gt;1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="380" y="-70" width="20" height="20" as="geometry" />
+          <mxGeometry x="370" y="-30" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-33" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="380" y="-150" width="20" height="20" as="geometry" />
+          <mxGeometry x="300" y="-30" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-34" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="725" y="-150" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sODQ3IuSzkhDvpB2BnHd-35" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="725" y="-70" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dAUsXNRdZzB-UZo_wPvv-1" value="FavoriteRestaurant" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6602;strokeColor=#BD7000;fontColor=#FFFFFF;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="95" y="-40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dAUsXNRdZzB-UZo_wPvv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;strokeColor=#FF6602;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dAUsXNRdZzB-UZo_wPvv-1" target="sODQ3IuSzkhDvpB2BnHd-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" as="sourcePoint" />
+            <mxPoint x="365" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
