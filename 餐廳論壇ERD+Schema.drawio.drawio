@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T07:29:45.405Z" agent="5.0 (Windows)" etag="RTuhSY21W8oIBh-ZE6xz" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T07:30:39.094Z" agent="5.0 (Windows)" etag="Fg7ZF3GvkICl-8OvsWXi" version="16.2.7" type="github">
   <diagram id="Arsce1lhnxzf3GvLfII_" name="第1頁">
     <mxGraphModel dx="1673" dy="1702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -390,7 +390,7 @@
           <mxGeometry y="130" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="37sV9JPSji_vyPsbSzuJ-133" value="categories" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=left;fontSize=16;fontColor=#FFFFFF;fillColor=#FF6602;spacing=0;strokeColor=#FFFFFF;strokeWidth=2;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="920" y="730" width="130" height="160" as="geometry">
+          <mxGeometry x="920" y="730" width="130" height="100" as="geometry">
             <mxRectangle x="150" y="220" width="110" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -399,12 +399,6 @@
         </mxCell>
         <mxCell id="37sV9JPSji_vyPsbSzuJ-135" value="name    " style="text;strokeColor=#FFFFFF;fillColor=#FDE5CD;spacingLeft=10;spacingRight=0;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=2;sketch=0;shadow=0;rounded=0;glass=0;spacing=0;" vertex="1" parent="37sV9JPSji_vyPsbSzuJ-133">
           <mxGeometry y="70" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="37sV9JPSji_vyPsbSzuJ-136" value="rate" style="text;strokeColor=#FFFFFF;fillColor=#FDE5CD;spacingLeft=10;spacingRight=0;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=2;sketch=0;shadow=0;rounded=0;glass=0;spacing=0;" vertex="1" parent="37sV9JPSji_vyPsbSzuJ-133">
-          <mxGeometry y="100" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="37sV9JPSji_vyPsbSzuJ-137" value="address" style="text;strokeColor=#FFFFFF;fillColor=#FDE5CD;spacingLeft=10;spacingRight=0;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=2;sketch=0;shadow=0;rounded=0;glass=0;spacing=0;" vertex="1" parent="37sV9JPSji_vyPsbSzuJ-133">
-          <mxGeometry y="130" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
