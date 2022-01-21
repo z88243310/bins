@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T04:35:59.521Z" agent="5.0 (Windows)" etag="IJU_f1eIztBGi4WmtXXg" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T04:36:52.236Z" agent="5.0 (Windows)" etag="QAxCrx0IM1kijO0foYp4" version="16.2.7" type="github">
   <diagram id="Arsce1lhnxzf3GvLfII_" name="第1頁">
     <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
         <mxCell id="FeWT-kClf4YKD-GhPPuV-57" value="FK : traveller_id" style="text;strokeColor=#FFFFFF;fillColor=#FDE5CD;spacingLeft=10;spacingRight=0;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=2;sketch=0;shadow=0;rounded=0;glass=0;spacing=0;" parent="FeWT-kClf4YKD-GhPPuV-21" vertex="1">
           <mxGeometry y="70" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FeWT-kClf4YKD-GhPPuV-51" value="FK : participant_id" style="text;strokeColor=#FFFFFF;fillColor=#FDE5CD;spacingLeft=10;spacingRight=0;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=2;sketch=0;shadow=0;rounded=0;glass=0;spacing=0;" parent="FeWT-kClf4YKD-GhPPuV-21" vertex="1">
+        <mxCell id="FeWT-kClf4YKD-GhPPuV-51" value="FK : event_id" style="text;strokeColor=#FFFFFF;fillColor=#FDE5CD;spacingLeft=10;spacingRight=0;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=2;sketch=0;shadow=0;rounded=0;glass=0;spacing=0;" parent="FeWT-kClf4YKD-GhPPuV-21" vertex="1">
           <mxGeometry y="100" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FeWT-kClf4YKD-GhPPuV-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#FFFFFF;strokeWidth=3;strokeColor=#33BFCC;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FeWT-kClf4YKD-GhPPuV-20" target="FeWT-kClf4YKD-GhPPuV-57" edge="1">
