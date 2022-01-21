@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T07:49:22.871Z" agent="5.0 (Windows)" etag="-3_dXewtNrRGgdGz-cMc" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T07:49:35.759Z" agent="5.0 (Windows)" etag="3iyBpI0f8b8l30chPT7M" version="16.2.7" type="github">
   <diagram id="Arsce1lhnxzf3GvLfII_" name="第1頁">
     <mxGraphModel dx="1185" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -379,6 +379,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="565" as="sourcePoint" />
             <mxPoint x="410" y="625" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="555" />
+              <mxPoint x="630" y="615" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="37sV9JPSji_vyPsbSzuJ-128" value="comments" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=left;fontSize=16;fontColor=#FFFFFF;fillColor=#FF6602;spacing=0;strokeColor=#FFFFFF;strokeWidth=2;spacingLeft=10;" vertex="1" parent="1">
