@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-23T15:37:47.318Z" agent="5.0 (Windows)" etag="7DoST63blZ2V3JsAhxKL" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-23T15:38:24.835Z" agent="5.0 (Windows)" etag="SDDn8oKinsfOgDhC1bR9" version="16.4.5" type="github">
   <diagram id="Arsce1lhnxzf3GvLfII_" name="第1頁">
     <mxGraphModel dx="1185" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -216,7 +216,7 @@
         <mxCell id="dT_OWnXESL6n3b-seBim-8" value="created_at" style="text;strokeColor=#FFFFFF;fillColor=#FDE5CD;spacingLeft=10;spacingRight=0;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=2;sketch=0;shadow=0;rounded=0;glass=0;spacing=0;" vertex="1" parent="dT_OWnXESL6n3b-seBim-1">
           <mxGeometry y="430" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dT_OWnXESL6n3b-seBim-24" value="tweets" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=left;fontSize=16;fontColor=#FFFFFF;fillColor=#FF6602;spacing=0;strokeColor=#FFFFFF;strokeWidth=2;spacingLeft=10;" vertex="1" parent="1">
+        <mxCell id="dT_OWnXESL6n3b-seBim-24" value="follows" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=left;fontSize=16;fontColor=#FFFFFF;fillColor=#FF6602;spacing=0;strokeColor=#FFFFFF;strokeWidth=2;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="570" y="-413" width="165" height="160" as="geometry">
             <mxRectangle x="150" y="220" width="110" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -224,7 +224,7 @@
         <mxCell id="dT_OWnXESL6n3b-seBim-25" value="PK : id" style="text;strokeColor=#FFFFFF;fillColor=#FDE5CD;spacingLeft=10;spacingRight=0;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=2;perimeterSpacing=0;sketch=0;shadow=0;rounded=0;glass=0;spacing=0;fontStyle=0" vertex="1" parent="dT_OWnXESL6n3b-seBim-24">
           <mxGeometry y="40" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dT_OWnXESL6n3b-seBim-26" value="date" style="text;strokeColor=#FFFFFF;fillColor=#FDE5CD;spacingLeft=10;spacingRight=0;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=2;sketch=0;shadow=0;rounded=0;glass=0;spacing=0;" vertex="1" parent="dT_OWnXESL6n3b-seBim-24">
+        <mxCell id="dT_OWnXESL6n3b-seBim-26" value="created_at" style="text;strokeColor=#FFFFFF;fillColor=#FDE5CD;spacingLeft=10;spacingRight=0;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=2;sketch=0;shadow=0;rounded=0;glass=0;spacing=0;" vertex="1" parent="dT_OWnXESL6n3b-seBim-24">
           <mxGeometry y="70" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dT_OWnXESL6n3b-seBim-27" value="FK : follower_id" style="text;strokeColor=#FFFFFF;fillColor=#FDE5CD;spacingLeft=10;spacingRight=0;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=2;sketch=0;shadow=0;rounded=0;glass=0;spacing=0;" vertex="1" parent="dT_OWnXESL6n3b-seBim-24">
