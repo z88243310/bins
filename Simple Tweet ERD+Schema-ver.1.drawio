@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-23T15:52:05.357Z" agent="5.0 (Windows)" etag="r60zODxlLELZYGXiNKK6" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-23T15:52:17.194Z" agent="5.0 (Windows)" etag="Jw8Xg9KR0RdaWUWM4KKp" version="16.4.5" type="github">
   <diagram id="Arsce1lhnxzf3GvLfII_" name="第1頁">
     <mxGraphModel dx="1497" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
         <mxCell id="dT_OWnXESL6n3b-seBim-21" value="cover" style="text;strokeColor=#FFFFFF;fillColor=#FDE5CD;spacingLeft=10;spacingRight=0;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=2;sketch=0;shadow=0;rounded=0;glass=0;spacing=0;" vertex="1" parent="dT_OWnXESL6n3b-seBim-1">
           <mxGeometry y="280" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dT_OWnXESL6n3b-seBim-23" value="follower_count" style="text;strokeColor=#FFFFFF;fillColor=#FDE5CD;spacingLeft=10;spacingRight=0;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=2;sketch=0;shadow=0;rounded=0;glass=0;spacing=0;" vertex="1" parent="dT_OWnXESL6n3b-seBim-1">
+        <mxCell id="dT_OWnXESL6n3b-seBim-23" value="following_count" style="text;strokeColor=#FFFFFF;fillColor=#FDE5CD;spacingLeft=10;spacingRight=0;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=2;sketch=0;shadow=0;rounded=0;glass=0;spacing=0;" vertex="1" parent="dT_OWnXESL6n3b-seBim-1">
           <mxGeometry y="310" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dT_OWnXESL6n3b-seBim-20" value="fans_count" style="text;strokeColor=#FFFFFF;fillColor=#FDE5CD;spacingLeft=10;spacingRight=0;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=2;sketch=0;shadow=0;rounded=0;glass=0;spacing=0;" vertex="1" parent="dT_OWnXESL6n3b-seBim-1">
